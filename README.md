@@ -65,11 +65,11 @@ The primary goal of this project was to create a **low-cost interface** to monit
 
 ```
 ECG Sensor (AD8232)
-   +-----------+       +----------+       +--------+
-   | ECG Signal|------>|ESP32 Pin36|       |   BLE  |
-   |   LO+     |------>| ESP32 Pin2|       | Device |
-   |   LO-     |------>| ESP32 Pin15|      |        |
-   +-----------+       +----------+       +--------+
+   +-----------+       +-----------------+       +--------+
+   | ECG Signal|------>|   ESP32 Pin 36  |       |   BLE  |
+   |   LO+     |------>|   ESP32 Pin 2   |       | Device |
+   |   LO-     |------>|   ESP32 Pin 15  |       |        |
+   +-----------+       +-----------------+       +--------+
 ```
 
 ### Running the Code
