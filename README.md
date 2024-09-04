@@ -37,7 +37,7 @@ The primary goal of this project was to create a **low-cost interface** to monit
      - LO- (Lead Off Negative) -> Pin 15
 
 2. **ESP32**:
-   - Install the ESP32 board in Arduino IDE. Follow the instructions [here](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md) to install ESP32 support.
+   - Install the ESP32 board in Arduino IDE. Follow the instructions [here](https://docs.espressif.com/projects/arduino-esp32/en/latest/) to install ESP32 support.
 
 ### Software Setup
 
