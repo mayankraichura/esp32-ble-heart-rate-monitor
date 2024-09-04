@@ -16,6 +16,10 @@ This project implements a low-cost heart rate monitor using an ECG sensor, an ES
   - BLE Heart Rate Measurement service (UUID: 180D).
   - Compatible with BLE-enabled devices such as smartphones or BLE hubs.
 
+![image](https://github.com/user-attachments/assets/9154c703-a15d-47cc-b5b6-1208affba3c0)
+
+![image](https://github.com/user-attachments/assets/f49042fa-a0a4-47b6-93f4-59f4ce7e25a6)
+
 ## Motivation
 
 The primary goal of this project was to create a **low-cost interface** to monitor heart rate while virtually walking or running on a treadmill, specifically for use with **Zwift**. Zwift users can benefit from this solution to monitor their heart rate during virtual workouts without the need for expensive commercial heart rate monitors.
