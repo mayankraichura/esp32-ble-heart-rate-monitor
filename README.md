@@ -49,7 +49,7 @@ The primary goal of this project was to create a **low-cost interface** to monit
 2. **Clone the Repository**:
    Clone this GitHub repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/heart-rate-monitor-ecg-ble.git
+   git clone https://github.com/mayankraichura/esp32-ble-heart-rate-monitor.git
    ```
 
 3. **Open in Arduino IDE**:
